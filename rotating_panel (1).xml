@@ -2,7 +2,7 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
+    <image>https://github.com/SurfRoots/appads/blob/main/elevado%20AD.jpg?raw=true</image>
     <url>https://sample.com/donate</url>
     <redirect>n</redirect>
   </panel>
